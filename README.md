@@ -2,7 +2,7 @@
 
 This project allows you to **automatically fetch and download Instagram videos** (posts or reels) from a given hashtag using `Selenium` and `yt_dlp`.
 
-> ⚠️ **For educational purposes only. Do not use to violate Instagram’s Terms of Service.**
+
 
 ---
 
